@@ -156,20 +156,20 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
     | V-01 | História bem definida, porém faltavam detalhes sobre permissões e comportamento da página do usuário | Adicionados critérios sobre visualização de perfis, tratamento de usuário sem ideias e navegação de retorno | Evita dúvidas sobre o funcionamento da página e garante uma experiência completa |
     | V-02 | História incompleta: apenas informa que deve existir um filtro por curso | Definidos critérios sobre onde o filtro aparece, como funciona e como os resultados devem mudar | Filtro funcionando" é muito genérico e não permite validar se foi concluído |
     | V-03 | História completa, mas faltava especificar validações e comportamento após criação | Incluída validação de campos obrigatórios, atualização dinâmica do mural e associação correta do autor | Garante que a publicação funcione sem erros e mantenha os dados corretos |
-    | V-04 | ... | ... | ... |
-    | V-05 | ... | ... | ... |
-    | V-06 | ... | ... | ... |
-    | V-07 | ... | ... | ... |
-    | V-08 | ... | ... | ... |
-    | V-09 | ... | ... | ... |
-    | V-10 | ... | ... | ... |
-    | V-11 | ... | ... | ... |
-    | V-12 | ... | ... | ... |
-    | B-01 | ... | ... | ... |
-    | B-02 | ... | ... | ... |
-    | B-03 | ... | ... | ... |
-    | B-04 | ... | ... | ... |
-    | B-05 | ... | ... | ... |
-    | B-06 | ... | ... | ... |
-    
+    | V-04 | Continha apenas os critérios "interface amigável", "busca rápida" e "resultado relevante". |Foram definidos campos pesquisáveis, comportamento da busca, normalização de maiúsculas/minúsculas e acentos, limpeza da busca e estado sem resultados.  |Os critérios originais eram subjetivos e não permitiam testes objetivos. A nova definição transforma a intenção da história |
+    | V-05 | Já definia entrada, saída, contagem de membros, lista de nomes e mudança do usuário em "navegando como".|Foram acrescentadas regras contra duplicidade e contra remoção de usuários que não pertencem ao grupo. |Evitar inconsistências nos dados dos grupos e tornar explícitas regras necessárias para manter a integridade das listas e contadores. |
+    | V-06 |Informava apenas que os estados deveriam ser implementados e mencionava os três estados: semente, germinando e proposta. |Foram definidos os estados como valores controlados, sua exibição, alteração, persistência e validação. |A descrição original não estabelecia como os estados deveriam funcionar. O detalhamento permite implementação e testes objetivos.|
+    | V-07 |Já apresentava o controle de interesse, inclusão e remoção do usuário, prevenção de duplicidade e contador. |Foram organizados os critérios e explicitada a atualização imediata da lista e do contador.| Melhorar a clareza da relação entre a lista de interessados e o contador apresentado no cartão, facilitando implementação e testes.|
+    | V-08 |Determinava diretamente o uso de localStorage e JSON.stringify para salvar e recuperar dados. |O requisito principal passou a ser a persistência dos dados, mantendo localStorage e JSON como decisão técnica do protótipo. Também foram incluídos critérios para ausência e  |Separar o comportamento que o sistema deve oferecer da tecnologia utilizada para implementá-lo. Também é necessário evitar que dados inválidos  |
+    | V-09 |Exigia notificação no celular em até um minuto, contendo o interessado e a ideia, com acesso à ideia correspondente. |Foram acrescentados critérios de prevenção de notificações duplicadas, tratamento de falhas e dependências de infraestrutura. |A funcionalidade depende de recursos que não existem em uma aplicação puramente local. Registrar essas dependências evita subestimar a complexidade da implementação. |
+    | V-10 |Recebida apenas como anotação: "ideias paradas". |Foi mantida como item em descoberta, com perguntas sobre definição de inatividade, período e comportamento esperado. |Ainda não existem informações suficientes para transformar a anotação em uma história pronta para desenvolvimento.|
+    | V-11 |Recebida apenas como anotação: "relatório por curso". |Foi mantida como item em descoberta e foram identificadas informações que precisam ser definidas. |Não é possível implementar corretamente um relatório sem saber quais dados, usuários e filtros serão necessários.|
+    | V-12 |Recebida apenas como anotação: "exportar / importar o estado". |Foram levantadas questões sobre formato, conteúdo, validação e comportamento da importação.|Foram levantadas questões sobre formato, conteúdo, validação e comportamento da importação. |
+    | B-01 | Defeito descrito como a impossibilidade de|Foram definidos os comportamentos esperados para  |Transformar o relato do problema em uma condição objetiva |
+    | B-02 |desfazer o filtro sem recarregar a página. |remover o filtro e restaurar o mural.| para validação da correção.
+    | B-03 |A data era exibida como 2026-03-14.  |Foi definido o formato visual 14/03/2026, mantendo a ordenação cronológica dos dados.  |Adequar a apresentação ao formato esperado para o contexto brasileiro sem prejudicar o tratamento interno das datas. |
+    | B-04 |Termos sem acento não encontravam palavras com acento, como robotica e Robótica.  |Foi definida a normalização de maiúsculas/minúsculas e acentos.  |Melhorar a tolerância da busca e garantir que diferenças de escrita que não alteram o significado não impeçam a localização de uma ideia.  |
+    | B-05 |O contador só era atualizado depois que uma nova busca era realizada.  |Foi definido que o contador deve ser atualizado imediatamente após a ação.  |Corrigir a inconsistência entre o estado real dos dados e o estado visual apresentado ao usuário.  |
+    | B-06 | Títulos longos ultrapassavam os limites do cartão e invadiam o espaço  |Foram definidos critérios para quebra ou truncamento do texto e manutenção  |Garantir a integridade visual do layout independentemente  |
+    | História | Situação em que foi recebida | O que foi alterado | Justificativa |
     
