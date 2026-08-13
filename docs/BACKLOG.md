@@ -150,14 +150,12 @@ Nenhum destes foi priorizado. Estão aqui para não serem esquecidos.
 - **B-05** — o número de apoios no cartão só muda depois que se refaz a busca.
 - **B-06** — título comprido vaza para fora do cartão e atravessa o cartão vizinho.
 
-
+     
     | História | Situação em que foi recebida | O que foi alterado | Justificativa |
+    |---|---|---|---|
     | V-01 | História bem definida, porém faltavam detalhes sobre permissões e comportamento da página do usuário | Adicionados critérios sobre visualização de perfis, tratamento de usuário sem ideias e navegação de retorno | Evita dúvidas sobre o funcionamento da página e garante uma experiência completa |
-  
     | V-02 | História incompleta: apenas informa que deve existir um filtro por curso | Definidos critérios sobre onde o filtro aparece, como funciona e como os resultados devem mudar | Filtro funcionando" é muito genérico e não permite validar se foi concluído |
-  
     | V-03 | História completa, mas faltava especificar validações e comportamento após criação | Incluída validação de campos obrigatórios, atualização dinâmica do mural e associação correta do autor | Garante que a publicação funcione sem erros e mantenha os dados corretos |
-  
     | V-04 | ... | ... | ... |
     | V-05 | ... | ... | ... |
     | V-06 | ... | ... | ... |
