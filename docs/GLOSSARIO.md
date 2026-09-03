@@ -31,3 +31,15 @@ Fica registrado. Não resolvemos.
 
 apoiar · interessado · membro · tag · curso · mural · perfil · proposta ·
 semente · germinando
+
+|   Palavra   | Definição                                                                                                  |
+|   apoiar    | Dar ajuda, incentivo ou suporte a alguém ou a alguma ideia                                                 |
+| interessado | 	Pessoa que demonstra curiosidade, atenção ou vontade de conhecer ou participar de algo                   |
+|    membro   | Pessoa que faz parte de um grupo, equipe, comunidade ou organização                                        |
+|     tag     | Palavra ou expressão usada para identificar, organizar ou facilitar a busca por um conteúdo                |
+|    curso    | Conjunto de aulas ou atividades destinadas a ensinar determinado assunto ou desenvolver uma habilidade     |
+|    mural    | Espaço onde são colocados avisos, informações, imagens ou publicações para serem vistos por outras pessoas |
+|    perfil   | 	Conjunto de informações que apresenta uma pessoa, seus interesses, características ou atividades         |
+|   proposta  | 	Ideia ou sugestão apresentada com o objetivo de realizar algo ou solucionar uma questão                  |
+|   semente   | 	Estrutura da planta que pode dar origem a uma nova planta quando encontra condições adequadas            |
+|  germinando | Processo em que uma semente começa a se desenvolver e dar origem a uma nova planta                         |
