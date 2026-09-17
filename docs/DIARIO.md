@@ -11,7 +11,7 @@
 **Presentes:Anna C., Ana K., Maria, Kaio, Emanuella e victor
 **Escriba: Emanuella
 
-**O que se pretendia: Organizar o git colocando todos os envolvidos no projeto e conversar sobre quem faria oque.
+**O que se pretendia: Organizar o repositorio colocando todos os envolvidos no projeto e conversar sobre quem faria oque.
 **O que se realizou: O objetivo foi alcançado.
 
 **Tempo gasto por história: 30m/40m
