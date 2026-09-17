@@ -8,35 +8,91 @@
 
 ## Encontro 1 — 30/07 (aula)
 
-**Presentes:**
-**Escriba:**
+**Presentes:Anna C., Ana K., Maria, Kaio, Emanuella e victor
+**Escriba: Emanuella
 
-**O que se pretendia:**
-**O que se realizou:**
+**O que se pretendia: Organizar o git colocando todos os envolvidos no projeto e conversar sobre quem faria oque.
+**O que se realizou: O objetivo foi alcançado.
 
-**Tempo gasto por história:**
+**Tempo gasto por história: 30m/40m
 
-| ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+| ID | Quem trabalhou | tempo(min) |
+|01| todos os envolvidos| 30m/40m|
 
-**Impedimentos encontrados:** *(o que travou o trabalho, e o que foi feito a respeito)*
+**Impedimentos encontrados: Tivemos dificuldade para entender por onde começariamos e com a pre desposisao de alguns oq dificultaria a entrega do projeto. 
 
-**Decisões tomadas:** *(com a justificativa de cada uma)*
+**Decisões tomadas: separamos o grupo para que cada um tivesse como ajudar, assim terminariamos mais rapido
+
+---
+## Encontro 2 — 06/08 (aula)
+
+**Presentes: Anna C.,, Kaio, Emanuella e Victor
+**Escriba: Victor
+
+**O que se pretendia: cada um terminar a sua parte e ajudariamos com o codigo 
+**O que se realizou: O objetivo está em andamento
+
+**Tempo gasto por história: 30m/40m
+
+| ID | Quem trabalhou | tempo(min) |
+|02| Anna.c,Emanuella e Kaio| 50m/1h|
+
+**Impedimentos encontrados: ah falte de alguns integrantes
+
+**Decisões tomadas: continuariamos oque estavamos fazendo
 
 ---
 
-## Sessão extra — [data], [duração]
+## Encontro 3 — 13/08 (aula)
 
-**Como foi combinada:** *(quando se marcou, por qual meio, quem confirmou)*
-**Presentes:**
-**Escriba:**
+**Presentes: Kaio, Emanuella
+**Escriba: Kaio
 
-**O que se realizou:**
+**O que se pretendia: apresentar as historias
+**O que se realizou: ah continuidade do projeto
 
-| ID | Quem trabalhou | Tempo (min) |
-|---|---|---|
+**Tempo gasto por história: finalizamos as historias
 
-**Impedimentos e decisões:**
+| ID | Quem trabalhou | tempo(min) |
+|03| Kaio e Emanuella| 1h|
+
+**Impedimentos encontrados: ah falte de alguns integrantes e o nervosismo
+
+**Decisões tomadas: continuariamos oque estavamos fazendo e apresentariamos outro dia
+
+---
+
+## Encontro 4 — 20/08 (aula)
+
+**Presentes: Kaio, Emanuella,Ana k.,Anna c., Maria  e Victor
+**Escriba: Ana kassiley
+
+**O que se pretendia: Receber nossa nota mas o professor deu um  tempo a mais para finalizar  projeto
+**O que se realizou: marcamos a data de encontro a o finalizamento
+
+**Tempo gasto por história: finalizamos as historias
+
+| ID | Quem trabalhou | tempo (min) |
+|04| todos os envolvidos| 1h e 20m |
+
+**Impedimentos encontrados:  o termino do trabalho que foi adiado
+
+**Decisões tomadas: continuariamos oque estavamos fazendo e apresentariamos outro dia
+
+---
+
+## Sessão extra — [ 10/09/2026], [2h]
+
+**Como foi combinada: 20/08/2026 e fizemos uma call no discord e cada um fez sua parte
+**Presentes: Todos os envolvidos com o projeto
+**Escriba: Maria
+
+**O que se realizou: finalizamos o diario e o pronto
+
+| ID | Quem trabalhou | tempo (min) |
+|04 |todos os envolvidos| 1h|
+
+**Impedimentos e decisões: Nao houve
 
 ---
 
